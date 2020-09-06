@@ -15,6 +15,8 @@ Figure above demonstrates the final visualization implemented in CODESYS, it inc
 
 ## Implemented logic conditions and functions
 
+<img src="/images/final-visualization.png" alt="Vizualization" width="800"/>
+
 Design process of this system included, perspective of the train operator as well as general passenger view and experience that he/she has or could have or see in the generic tube line. Also some more specific functions were considered as potentially usable for instance the door closing mechanism that is implemented in most of the metro lines.
 
 - For train to begin ride operator must manually press the ’Go’ button, and will go with constant speed
@@ -31,7 +33,6 @@ Design process of this system included, perspective of the train operator as wel
 - Operator and passengers will have information about time left for next train to come
 - Information boards time will adjust to operate only if trains are active
 
-<img src="/images/final-visualization.png" alt="Vizualization" width="800"/>
 
 
 
