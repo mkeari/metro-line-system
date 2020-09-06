@@ -1,5 +1,5 @@
 # Metro-Line-System
-The implementation of Metro Line using Ladder Logic Diagram in CODESYS software.
+The implementation of Metro Line using Ladder Logic Diagram in CODESYS software by M. Kairgaliyev, J. Chumakov, M. Omar.
 
 [![Demo](https://img.youtube.com/vi/aJh3SQjZNfQ/0.jpg)](https://youtu.be/aJh3SQjZNfQ)
 
