@@ -1,7 +1,9 @@
 # Metro-Line-System
 The implementation of Metro Line using Ladder Logic Diagram in CODESYS software by M. Kairgaliyev, J. Chumakov, M. Omar.
 
-[![Demo](https://img.youtube.com/vi/aJh3SQjZNfQ/0.jpg)](https://youtu.be/aJh3SQjZNfQ)
+<div align="center">
+  <a href="https://youtu.be/aJh3SQjZNfQ"><img src="https://img.youtube.com/vi/aJh3SQjZNfQ/0.jpg" alt="Project Demo Video"></a>
+</div>
 
 ## General Info
 
@@ -9,13 +11,17 @@ Underground system represents tightly interconnected system, where each operatio
 
 CODESYS programming environment allows to exploit functions and as well as visualizations required to successful accomplishment of above-mentioned project. Structure text PLC programming language was chosen, due to it’s intuitiveness in comparison with alternatives; besides, although LLD (ladder logic diagram) is visually more convenient, such a complex system will create a significant amount of distractions, and will prevent focus concentration
 
+<p align="center">
 <img src="/images/metro-line-map.png" alt="Metro Line Map" width="350"/>
+</p>
 
 Figure above demonstrates the final visualization implemented in CODESYS, it includes 4 stations with time boards on them, train control boards and moving train visualizations.
 
 ## Implemented logic conditions and functions
 
+<p align="center">
 <img src="/images/final-visualization.png" alt="Vizualization" width="800"/>
+</p>
 
 Design process of this system included, perspective of the train operator as well as general passenger view and experience that he/she has or could have or see in the generic tube line. Also some more specific functions were considered as potentially usable for instance the door closing mechanism that is implemented in most of the metro lines.
 
